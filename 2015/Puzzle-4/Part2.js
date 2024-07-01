@@ -3,7 +3,7 @@ const crypto = require('crypto');
 const func = (baseKey) => {
 
     let copyKey = '';
-    let ans = 346386;
+    let ans = 346386; // put answer for first one here
     let hashHex = ''
 
     while(!hashHex.startsWith('000000'))
