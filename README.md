@@ -1,1 +1,1 @@
-# advent-of-code-15
+# advent-of-code
