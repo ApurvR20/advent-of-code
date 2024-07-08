@@ -1,4 +1,3 @@
-// too high
 let func = (input) => {
     
     const inputArr = input.split('\n');
